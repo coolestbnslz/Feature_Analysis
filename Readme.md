@@ -22,7 +22,7 @@ There are four methods used to identify features to remove:
 
 ## Usage
 
-Refer to the [testing.py](https://github.com/WillKoehrsen/feature-selector/blob/master/Feature%20Selector%20Usage.ipynb) for how to use the different methods in module.
+Refer to the [testing.py](https://github.com/coolestbnslz/Feature_Analysis/blob/main/testing.py) for how to use the different methods in module.
 
 ## Visualizations
 
@@ -30,19 +30,19 @@ The `FeatureAnalysis` methods also includes a number of visualization in each me
 characteristics of a dataset. 
 
 __Histogram for missing values__
-![](images/figure_1.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_1.png)
 
 __Histogram for unique values__
-![](images/figure_2.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_2.png)
 
 __Correlation Heat map__
-![](images/figure_3.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_3.png)
 
 __Important Features__
-![](images/figure_4.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_4.png)
 
 __Cumulative Feature Importance__
-![](images/figure_5.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_5.png)
 
 #Requirements:
 Install dependencies just mentioned in requirements.txt by typing command in shell.
