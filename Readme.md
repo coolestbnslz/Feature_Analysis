@@ -29,19 +29,19 @@ Refer to the [testing.py](https://github.com/coolestbnslz/Feature_Analysis/blob/
 The `FeatureAnalysis` methods also includes a number of visualization in each methods mentioned above to inspect 
 characteristics of a dataset. 
 
-__Histogram for missing values__
+### Histogram for missing values
 ![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_1.png)
 
-__Histogram for unique values__
+### Histogram for unique values
 ![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_2.png)
 
-__Correlation Heat map__
+### Correlation Heat map
 ![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_3.png)
 
-__Important Features__
+### Important Features
 ![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_4.png)
 
-__Cumulative Feature Importance__
+### Cumulative Feature Importance
 ![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_5.png)
 
 # Requirements:
