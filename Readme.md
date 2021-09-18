@@ -30,19 +30,19 @@ The `FeatureAnalysis` methods also includes a number of visualization in each me
 characteristics of a dataset. 
 
 __Histogram for missing values__
-![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_1.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_1.png)
 
 __Histogram for unique values__
-![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_2.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_2.png)
 
 __Correlation Heat map__
-![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_3.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_3.png)
 
 __Important Features__
-![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_4.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_4.png)
 
 __Cumulative Feature Importance__
-![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/figure_5.png)
+![](https://github.com/coolestbnslz/Feature_Analysis/blob/main/images/Figure_5.png)
 
 # Requirements:
 Install dependencies just mentioned in requirements.txt by typing command in shell.
@@ -53,7 +53,7 @@ Install dependencies just mentioned in requirements.txt by typing command in she
 
 Any questions can be directed to nbansal1_be18@thapar.edu.
 
-##Contributing
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
